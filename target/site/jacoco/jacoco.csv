@@ -1,0 +1,9 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Exercise 8 - CI,exercise.realdatabase.travis,SystemUser_,3,0,0,0,1,0,1,0,1,0
+Exercise 8 - CI,Utils,Mailer,23,0,0,0,6,0,2,0,2,0
+Exercise 8 - CI,exercise,LoginStatus,9,39,0,0,0,4,2,2,2,2
+Exercise 8 - CI,exercise,FailedLogin,0,41,0,2,0,10,0,3,0,2
+Exercise 8 - CI,exercise,Authenticator,40,71,0,8,6,19,1,6,1,2
+Exercise 8 - CI,exercise.realdatabase,SystemUser,27,6,0,0,12,2,6,2,6,2
+Exercise 8 - CI,exercise.realdatabase,UserFacadeRealDB,5,38,0,4,0,9,0,4,0,2
+Exercise 8 - CI,exercise.realdatabase.db_original,SystemUser_,3,0,0,0,1,0,1,0,1,0

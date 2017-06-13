@@ -7,6 +7,7 @@ import static org.mockito.Mockito.mock;
 
 /**
  * Created by williambech
+ * commmmmitt
  */
 public class AuthenticatorTestIT extends AuthenticatorTest{
     @Override
